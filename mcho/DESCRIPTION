@@ -3,7 +3,7 @@ Type: Package
 Title: Log Sum Calculator of Exponential Terms
 Version: 0.1.0
 Author: Min Haeng Cho
-Maintainer: Min Haeng Cho <minhaeng@uw.edu>
+Maintainer: Min Haeng Cho
 Description: Computes the logarithm of a finite sum of the exponent of numbers.
 License: GPL-3
 Encoding: UTF-8
